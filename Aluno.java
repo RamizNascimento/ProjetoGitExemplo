@@ -1,3 +1,4 @@
+//Aluno
 class Aluno{
 	String nome;
 	int rg;
