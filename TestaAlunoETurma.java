@@ -1,10 +1,12 @@
 class TestaAlunoETurma{
 	public static void main(String[] args){
+		//Criando Turma
 		Turma t1 = new Turma();
 		t1.periodo = "manhã";
 		t1.serie = "1 ano";
 		t1.sigla = "M1";
 		
+		//Criando Aluno
 		Aluno a1 = new Aluno();
 		a1.rg = 32878969;
 		a1.dataNascimento = "01/05/1987";
